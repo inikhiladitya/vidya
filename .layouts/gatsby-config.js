@@ -2,10 +2,10 @@ const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
   title: "A personal wiki powered by Obsidian and Gatsby.",
-  shortName: "Vidya",
+  shortName: "Mandala",
   description:
     "This is my personal wiki and a commonplace book; notes by me, for me.",
-  twitterName: "zoobhalu",
+  twitterName: "@inikhiladitya",
   imageUrl:
     "https://raw.githubusercontent.com/zubayrrr/twiki/main/bin/image.gi1fwk2ysjp.png",
   siteUrl: "https://wiki.zubayrali.in",
@@ -29,7 +29,7 @@ module.exports = {
       resolve: "gatsby-theme-primer-wiki",
       options: {
         icon: "./static/logo.png",
-        sidebarComponents: ["summary", "tag"],
+        sidebarComponents: ["tag"],
         defaultIndexLatestPostCount: 10,
         shouldShowLatestOnIndex: true,
         searchBody: true,
