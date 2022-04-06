@@ -1,0 +1,38 @@
+{
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": false,
+    "enableFontawesomeFill": false,
+    "enableFontawesomeLine": true,
+    "enableFontawesomeBrands": false,
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiBookletLine",
+      "FaCalendarAltLine",
+      "RiInboxLine",
+      "RiGitRepositoryCommitsLine",
+      "RiTaskLine",
+      "RiDraftLine",
+      "RiArrowUpDownLine",
+      "RiPhoneLockLine",
+      "RiFolderLockLine"
+    ],
+    "recentlyUsedIconsSize": 9,
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "archive": "RiArchiveLine",
+  "bin": "RiShoppingBasketLine",
+  "life": "RiUserHeartLine",
+  "resources": "RiBookMarkLine",
+  "slip-box": "RiPhoneLockLine",
+  "life/goals": "RiArrowUpDownLine",
+  "life/projects": "RiTaskLine",
+  "inbox": "RiInboxLine",
+  "nb": "RiBookletLine"
+}

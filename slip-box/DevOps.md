@@ -1,0 +1,115 @@
+---
+created: 2022-03-12
+title: DevOps
+tags:
+  - areas
+---
+
+- `areas:` [[Linux]], [[Networking]], [[SysAdmin]]
+
+---
+
+## My Roadmap to learning DevOps
+
+- Programming languages
+  - [[Python]]
+  - [[Bash]]
+  - [[Javascript]]
+- Understand different OS Concepts
+  - [[Linux Process Management]]
+  - [[Threads and Concurrency]]
+  - [[Sockets]]
+  - [[POSIX]]
+  - [[Networking]], [[Networking in Linux]]
+  - [[IO Management]]
+  - [[Virtualization]]
+  - [[Memory]]
+  - [[Storage]]
+  - [[File Systems]], [[Linux File System]]
+  - [[tmux]]
+  - [[systemd]]
+- Operating Systems
+  - [[Linux]], [[Everything about Linux Terminal]]
+- Text Manipulation Tools
+  - [[awk]]
+  - [[grep]]
+  - [[cat]]
+  - [[wc]]
+  - [[sed]]
+- Text Editors
+  - [[vim]]
+- Process Monitoring
+  - [[Linux Process Management]]
+  - [[process]]
+- Networking Tools
+  - [[nmap]]
+  - [[ping]]
+  - [[netstat]]
+- [[Networking]], Security and Protocols
+  - [[Networking in Linux]]
+  - Emails
+    - [[smtp]]
+    - [[imap]]
+    - [[pop3]]
+    - [[DMARC]]
+    - [[SPF]]
+    - [[Domain Keys]]
+  - [[https]]
+  - [[http]]
+  - [[FTP]]
+  - [[SSL]]/[[TLS]]
+  - [[SSH]]
+  - [[scp]]
+  - [[rsync]]
+  - [[Port Forwarding]]
+  -
+- Setting up
+  - [[Reverse Proxy]]
+  - [[Caching Server]]
+  - [[Forward Proxy]]
+  - [[Load Balancer]]
+  - [[Firewall]]
+- Web Server
+  - [[Nginx]]
+  - [[Apache]]
+  - [[Tomcat]]
+  - [[IIS]]
+  - [[Istio]]
+  - [[Consul]]
+- Infrastructure as Code
+  - [[Service Mesh]]
+  - [[Containers]]
+    - [[Docker]]
+    - [[LXC]]
+  - Configuration Management
+    - [[Ansible]]
+    - [[Puppet]]
+  - Container Orchestration
+    - [[Kubernetes]]
+    - [[Mesos]]
+  - Infrastructure Provisioning
+    - [[Terraform]]
+  - CI/CD Tools
+    - [[Gitlab CI]]
+    - [[Github Actions]]
+    - [[Jenkins]]
+    - [[Circle CI]]
+  - Cloud Providers
+    - [[AWS]]
+    - [[Linode]]
+    - [[Vultr]]
+    - [[Digital Ocean]]
+  - Infrastructure Monitoring
+    - [[Prometheus]]
+    - [[Grafana]]
+  - Application Monitoring
+    - [[New Relic]]
+    - [[Jaeger]]
+  - Logs Management
+    - [[Elastic Stock]]
+    - [[Splunk]]
+  - Cloud Design Patterns
+    - [[Availability]]
+    - [[Data Management]]
+    - [[Design and Implementation]]
+    - [[Management and Monitoring]]
